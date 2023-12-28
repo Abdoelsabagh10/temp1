@@ -3,6 +3,11 @@
     --main-color: #16CBB9;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+    
+
 /* end variable rules */
 
 /* start global rules */
